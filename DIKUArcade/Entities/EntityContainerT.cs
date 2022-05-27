@@ -63,7 +63,6 @@ namespace DIKUArcade.Entities {
         public void ClearContainer() {
             entities.Clear();
         }
-
         /// <summary>
         /// Count the number of entities in the EntityContainer
         /// </summary>
